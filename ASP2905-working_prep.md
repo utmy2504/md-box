@@ -3,7 +3,7 @@
 | **溶解性** | DMSO: 27.5 mg/mL (70.8 mM), Sonication is recommended. |
 
 ## 1. ASP2905 in DMSO (20 mM) solution 
-    - **working conc.**: 5~10 µM
+            - **working conc.**: 5~10 µM
 1. 以下の表を参考に、DMSOに溶かす
 
 ###DMSO
