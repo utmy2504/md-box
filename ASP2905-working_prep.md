@@ -1,10 +1,11 @@
 # ASP-stock
 
-| **保管方法-ASP2905** | Powder: -20°C for 3 years \| In solvent: -80°C for 1 year \|
+| 試薬 | 項目 | 詳細 |
 |:---|:---|:---|
-| **溶解性-ASP2905** | DMSO: 27.5 mg/mL (70.8 mM), Sonication is recommended. | \|
-| **保管方法-ASP7967** | Powder: -20°C for 1 years, 4°C for 6 months \| In solvent: -80°C or -20°C for 1 year \|
-| **溶解性-ASP7967** | DMSO: 10 mM| \|
+| **ASP2905** | 保管方法 | Powder: -20°Cで3年間。溶媒中: -80°Cで1年間。 |
+| **ASP2905** | 溶解性 | DMSO: 27.5 mg/mL (70.8 mM)。超音波処理を推奨。 |
+| **ASP7967** | 保管方法 | Powder: -20°Cで1年間、4°Cで6ヶ月。溶媒中: -80°Cまたは-20°Cで1年間。 |
+| **ASP7967** | 溶解性 | DMSO: 10 mM |
 
 ## 1. ASP 2905　or 7967 in DMSO (20 mM) solution 
 - **working conc.**: 5~10 µM
