@@ -1,21 +1,16 @@
 # HEK293FT DNA Transfection (and passage)
 
 I. 細胞懸濁液の調製(10cm dish)
+  0. reagents
+    - Trypsin-EDTA(37°C) 4 ml
+    - D-MEM(+ 10%FBS, 1%Pyrvate, 1%PenStr, 37°C) 4 ml
+  1. 培養上清を除き、Trypsin-EDTAを加える
+  2. 37°C, 1 min incubation
+  3. dishを叩いて細胞を完全に剥がし、懸濁液全量を15mlファルコンチューブに移す
+  4. centrifugate at 1000 rpm, 1 min, RT
+  5. 上清を除き、D-MEM(+) 4 ml に懸濁する
 
-:::details
-0. reagents
-  - Trypsin-EDTA(37°C) 4 ml
-  - D-MEM(+ 10%FBS, 1%Pyrvate, 1%PenStr, 37°C) 4 ml
-1. 培養上清を除き、Trypsin-EDTAを加える
-2. 37°C, 1 min incubation
-3. dishを叩いて細胞を完全に剥がし、懸濁液全量を15mlファルコンチューブに移す
-4. centrifugate at 1000 rpm, 1 min, RT
-5. 上清を除き、D-MEM(+) 4 ml に懸濁する
-:::
-
-<detail>
-  <summary>## II. 播種 (24well plate)</summary>
-  
+## II. 播種 (24well plate)</summary>
   0. reagents
     - D-MEM(+ 10%FBS, 1%Pyrvate, 1%PenStr, 37°C) 適量
       (e.g. 0.4 * (播種したいwell数) + 1 ml)
@@ -24,8 +19,6 @@ I. 細胞懸濁液の調製(10cm dish)
   3. 0.4 * 10^6 cell/ml となるように、D-MEM(+)で希釈
   4. 24 well plate 各ウェルに 400 µl ずつ加える
   5. 約 24 時間インキュベート
-</detail>
-
 
 ## III. Lipofectamine2000 トランスフェクション (24well plate)
   0. reagents(/1 well)
