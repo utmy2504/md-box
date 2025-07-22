@@ -12,7 +12,7 @@
   4. centrifugate at 1000 rpm, 1 min, RT
   5. 上清を除き、D-MEM(+) 4 ml に懸濁する
 
-## II. 播種 (24well plate)</summary>
+## II. 播種 (24well plate)
   ##### reagents
    - [ ] D-MEM(+ 10%FBS, 1%Pyrvate, 1%PenStr, 37°C) : 適量 
   <br>  (e.g. 0.4 * (播種したいwell数) + 1 ml)
