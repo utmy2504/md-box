@@ -27,7 +27,7 @@ I. 細胞懸濁液の調製(10cm dish)
       - Lipofectamine 2000 2 µl
   1. DNA溶液をOpti-MEMで 50 µl にメスアップ
   2. Opti-MEM 48 µlと Lipofectamine 2000 2 µlを混合し、5 min, RT インキュベート
-  3. 1. と2. を混合
+  3. 1と2を混合
   4. 全量　(100µl) を播種したwellに加える
   5. 37°C, 5% CO_2, インキュベート
 
